@@ -50,6 +50,8 @@ Run this instead for convenience:
 fileorganizer.bat "C:\Downloads" --dry-run --log --delete-empty
 
 Auto-builds with Maven and opens the log file if --log is used.
+📸 Preview  
+![CLI Screenshot](screenshot.png)
 
 🧪 Sample Output
 [DRY RUN] Would move: image.png → images/
